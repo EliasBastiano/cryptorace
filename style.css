@@ -1,0 +1,15 @@
+body {
+  font-family: 'Courier New', monospace;
+  background-color: #001133;
+  color: #fff;
+  text-align: center;
+}
+canvas {
+  background-color: #001133;
+  border: 2px solid #fff;
+  image-rendering: pixelated;
+}
+#clock {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
